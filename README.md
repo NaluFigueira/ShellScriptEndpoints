@@ -1,5 +1,7 @@
 # ShellScriptEndpoints
 
+> :warning: **Atenção**: antes de rodar o script trocar o texto "path_to_project" nos comandos para o caminho do projeto React que será utilizado como base.
+
 ## Manipulação de arquivos
 
 - Listar arquivos no diretório atual:
